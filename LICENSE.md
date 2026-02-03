@@ -1,0 +1,3 @@
+Copyright (©) 2026 scorchinRebar. All rights reserved.
+
+No part of this repository may be copied, modified, distributed, or used in any way without explicit written permission from the sole copyright holder.

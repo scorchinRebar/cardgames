@@ -6,6 +6,7 @@ body {
     background-color: #1c1c1c;
     font-size: 40px;
     font-style: bold;
+    overflow: hidden;
 }
 #mobileButton {
     display: none;
@@ -24,4 +25,5 @@ body {
     #mobileButton {
         display: block;
     }
+
 }
